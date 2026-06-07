@@ -1,0 +1,6 @@
+{
+  "name": "Letter to Misia",
+  "description": "An interactive digital love letter with an opening envelope animation and a live count down to July 12, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
